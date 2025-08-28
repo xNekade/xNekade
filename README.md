@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @xNekade
-- 👀 I’m interested in Gamedev, C++, Rust, NixOS
-- 🌱 I’m currently learning Gamedev, C++, Linux
+- 👀 I’m interested in Mathematics, Physics, Gamedev, Game Engine Dev, OS Dev, C, C++, Rust, Assambly, Python, NixOS, AI-Coding
+- 🌱 I’m currently learning Mathematics, Gamedev, C++, Linux
+
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
